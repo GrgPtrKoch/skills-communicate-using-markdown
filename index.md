@@ -1,11 +1,19 @@
 # MD-Skills
 
-## Code
+
+
+##### Code
 ```javascript
 var myVar = "Hello, world!";
 ```
+##### Tasklist
+- [x] Turn on GitHub Pages
+- [x] Outline
+- [ ] Introduce... not me.
 
-## Yaktocat
+
+##### Yaktocat
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 
 
